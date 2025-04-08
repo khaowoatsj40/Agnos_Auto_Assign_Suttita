@@ -3,6 +3,18 @@
 ## Description
 This repository contains automated tests for testing the functionality of a robot system using [Robot Framework](https://robotframework.org/). Robot Framework is a generic test automation framework for acceptance testing and robotic process automation (RPA).
 
+
+## Installation
+
+1. Install python
+2. Install pip
+3. Install VScode
+4. Install Browsers (xe. Chrome)
+5. Install robotframework, robotframework-seleniumlibrary, PyYAML
+6. Clone the repository : git clone https://github.com/khaowoatsj40/Agnos_Auto_Assign_Suttita.git
+7. Run File : robot filename.robot (ex. ./testcases/NavigateTabsPagesTestcases.robot)
+
+
 ## Directory Structure
 Agnos_Auto_Assign_Suttita
 │
@@ -22,16 +34,3 @@ Agnos_Auto_Assign_Suttita
 │   ├── LoginTestcases.robot
 │   └── NavigateTabsPagesTestcases.robot
 │   └── RegisterTestcases.robot
-
-
-## Installation
-
-1. Install python
-2. Install pip
-3. Install VScode
-4. Install Browsers (xe. Chrome)
-5. Install robotframework, robotframework-seleniumlibrary, PyYAML
-6. Clone the repository : git clone https://github.com/khaowoatsj40/Agnos_Auto_Assign_Suttita.git
-7. Run File : robot filename.robot (ex. ./testcases/NavigateTabsPagesTestcases.robot)
-
-
