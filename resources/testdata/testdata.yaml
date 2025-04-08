@@ -1,0 +1,17 @@
+# Registration
+
+email: candidatetest@gmail.com
+password: Oa123456@
+ConfirmPassword: Oa123456@
+
+# Login
+emailLogin: test@gmail.com
+passwordLogin: 12345
+
+
+inputNull: ""
+invalid_email: testtttt@gmail.com
+invalid_email_format: testtttt
+invalid_email_space: testtttt  @gmail.com
+invalid_password: 111111
+invalid_password_space: 111  111
